@@ -1,6 +1,8 @@
 # 30seconds
 
-## Build Setup
+Simple design and implementation of 30 seconds to just show 5 words and a timer of 30 seconds.
+
+## Build Setup Frontend
 
 ```bash
 # install dependencies
@@ -17,4 +19,12 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Run Backend
+
+```bash
+# install dependencies
+$ npm install
+
+# start server
+$ npm run start
+```
